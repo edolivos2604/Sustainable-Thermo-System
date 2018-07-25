@@ -1,0 +1,18 @@
+Greenhouse Project Outline
+
+Goal: Embedded System with Apple iPhone Integration
+
+Needs:
+Temperature Sensing
+Reports on Data Averages
+
+Wants:
+Reports on Energy Usage
+Camera Integration
+
+Materials:
+1) 4x Fans
+2) 5x Temperature Sensors
+3) 1x Water Pump
+4) 1x Transister
+5) 2x Raspberry Pi
