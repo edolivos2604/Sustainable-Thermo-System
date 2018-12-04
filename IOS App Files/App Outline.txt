@@ -1,0 +1,1 @@
+The main goal of this app is to reflect in real time the data posted in Firebase while the thermo-system is running. 
