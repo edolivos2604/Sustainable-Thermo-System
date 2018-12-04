@@ -3,12 +3,13 @@ Thermo-System Project Outline
 Goal: Embedded System with IOS Mobile App Integration
 
 Needs:
-Temperature Sensing
-Reports on Data Averages
+•	To utilize accessible and cost efficient components to build the thermo-system using available space inside/outside a household.
+•	To get the thermo-system working efficiently with an outside ambient temperature that can go from -10°F to 95°F. 
+•	To create a mobile application will display the current status and efficiency of the thermo-system, which will also help control it.
 
 Wants:
-Reports on Energy Usage
-Camera Integration
+•	To create reports on energy usage and system efficiency.
+•	To integrate a security camera to monitor the thermo-system form mobile app. 
 
 Materials:
 1) 2x Fans
