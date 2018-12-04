@@ -1,6 +1,6 @@
-Greenhouse Project Outline
+Thermo-System Project Outline
 
-Goal: Embedded System with Apple iPhone Integration
+Goal: Embedded System with IOS Mobile App Integration
 
 Needs:
 Temperature Sensing
@@ -11,8 +11,8 @@ Reports on Energy Usage
 Camera Integration
 
 Materials:
-1) 4x Fans
-2) 5x Temperature Sensors
+1) 2x Fans
+2) 3x Temperature Sensors
 3) 1x Water Pump
-4) 1x Transister
-5) 2x Raspberry Pi
+4) 1x Heater
+5) 1x Raspberry Pi
