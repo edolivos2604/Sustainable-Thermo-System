@@ -58,8 +58,8 @@ class ViewController: UIViewController, UITextFieldDelegate {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        let email = "edwino2604@gmail.com"
-        let password = "thermosystem"
+        let email = "XXXXXX@gmail.com"
+        let password = "XXXXXXXX"
         Auth.auth().signIn(withEmail: email, password: password)
         
         //self.maxTemp.delegate = self
